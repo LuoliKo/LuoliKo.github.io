@@ -1,74 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  <subtitle>LuoliKo</subtitle>
+  <title>LuoliKo Blog</title>
+  <icon>https://www.gravatar.com/avatar/6ec06826ffb4ee79ba852854adc60baf</icon>
+  <subtitle>早而持理，偏爱感性。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-09T02:29:07.009Z</updated>
+  <updated>2018-08-09T09:22:17.007Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>LuoliKo</name>
+    <email>widung@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>宝宝心里苦啊</title>
-    <link href="http://yoursite.com/2018/04/09/article-180409/"/>
-    <id>http://yoursite.com/2018/04/09/article-180409/</id>
-    <published>2018-04-09T01:35:21.000Z</published>
-    <updated>2018-04-09T02:29:07.009Z</updated>
-    
-    <content type="html"><![CDATA[<p>作为一个老搓男程序员，时常感觉到自己很委屈很凄凉。比方说，我觉得在自己擅长的领域，我的技术很牛逼，我觉得自己是一个敢为心爱的女儿在摩天大楼上打飞机的大金刚，但是在不同行的人眼中，我只是马戏团中会耍点杂技的小猴子而已，即便是在不同领域的程序员眼中，我也只是动物园中一只模仿别人动作的黑猩猩。<br>听起来很凄凉很委屈，无论你觉得自己做了多少的兼容，多少的优化，不同领域的人都是不知道的，无论你怎么吹逼，他们都不会对你产生敬畏，因为他们没有对你领域的技术有一个深刻的认知。少了这种认知和敬畏，别人就可以对我这个老搓男程序员漫天要价漫天要求，你要这么做，那么做，谁知道，宝宝内心苦啊累啊！！<br>好吧，说到底还是自己技术太渣了，失礼失礼。<br><a id="more"></a></p>]]></content>
+    <title>article</title>
+    <link href="http://yoursite.com/2018/08/09/article/"/>
+    <id>http://yoursite.com/2018/08/09/article/</id>
+    <published>2018-08-09T06:05:50.000Z</published>
+    <updated>2018-08-09T09:22:17.007Z</updated>
     
     <summary type="html">
-    
-      &lt;p&gt;作为一个老搓男程序员，时常感觉到自己很委屈很凄凉。比方说，我觉得在自己擅长的领域，我的技术很牛逼，我觉得自己是一个敢为心爱的女儿在摩天大楼上打飞机的大金刚，但是在不同行的人眼中，我只是马戏团中会耍点杂技的小猴子而已，即便是在不同领域的程序员眼中，我也只是动物园中一只模仿别人动作的黑猩猩。&lt;br&gt;听起来很凄凉很委屈，无论你觉得自己做了多少的兼容，多少的优化，不同领域的人都是不知道的，无论你怎么吹逼，他们都不会对你产生敬畏，因为他们没有对你领域的技术有一个深刻的认知。少了这种认知和敬畏，别人就可以对我这个老搓男程序员漫天要价漫天要求，你要这么做，那么做，谁知道，宝宝内心苦啊累啊！！&lt;br&gt;好吧，说到底还是自己技术太渣了，失礼失礼。&lt;br&gt;
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>贼无聊 特想说</title>
-    <link href="http://yoursite.com/2018/04/04/article-180404/"/>
-    <id>http://yoursite.com/2018/04/04/article-180404/</id>
-    <published>2018-04-04T02:09:35.000Z</published>
-    <updated>2018-04-04T07:33:34.653Z</updated>
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
     
-    <content type="html"><![CDATA[<h2 id="百无聊赖，我就“胡言乱语”"><a href="#百无聊赖，我就“胡言乱语”" class="headerlink" title="百无聊赖，我就“胡言乱语”"></a>百无聊赖，我就“胡言乱语”</h2><p><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1389567436,2470438897&amp;fm=27&amp;gp=0.jpg" alt="露天小菜菜"><br>在那天，我遇到了我的小菜菜，我才发现，原来……我是一个优秀的萝莉控。<br><a id="more"></a></p><p>有一天，我被朋友问，我是不是gay……我特么#$%%#%￥@<br>我不就重视友情，不拘小节而已嘛，一不小心尺度有点大，至于么，我可是一名正宗优秀的萝莉控！！！</p><p>很多事情总想尝试，但是每次都是没有赋予行动，更惨的是，行动起来了，一切装备都准备完全了，结果缺是刚做几步又放弃了，很多时候都觉得自己很懒很颓。</p><p>我不是中二少年，老搓男我已经二十有五了，但是总感觉人类可以凭借意志力物理意义上的触碰实物，类似念力，毕竟这个世界这么神奇。</p><p>虽然是理科生，但是却很喜欢文学的东西，经常脑海里想一些人生道理什么鬼的，到了想要记录下来的时候，却总结不出一条，然后就傻蛋一样乱写一通。</p><p>很久没读书了，特想买几本来读。不过想想还是算了，因为我知道我买的书都是拿来装饰我的书柜，而不是装饰我的知识小破房的。</p><p>经常会觉得自己的读书生涯充满了伤痛，一这么想，思绪喷涌，而且还很凌乱，而且自己还很词穷，所以什么都说不出来，总之就充满了伤痛。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;百无聊赖，我就“胡言乱语”&quot;&gt;&lt;a href=&quot;#百无聊赖，我就“胡言乱语”&quot; class=&quot;headerlink&quot; title=&quot;百无聊赖，我就“胡言乱语”&quot;&gt;&lt;/a&gt;百无聊赖，我就“胡言乱语”&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1389567436,2470438897&amp;amp;fm=27&amp;amp;gp=0.jpg&quot; alt=&quot;露天小菜菜&quot;&gt;&lt;br&gt;在那天，我遇到了我的小菜菜，我才发现，原来……我是一个优秀的萝莉控。&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>小僧中了情毒</title>
-    <link href="http://yoursite.com/2018/04/03/article-180403/"/>
-    <id>http://yoursite.com/2018/04/03/article-180403/</id>
-    <published>2018-04-03T02:40:15.000Z</published>
-    <updated>2018-04-04T01:57:48.313Z</updated>
-    
-    <content type="html"><![CDATA[<p>大年初一上映了女儿国，不过没有去电影院看电影的爱好，到了三月中旬，我才在网上下载下来看。万万没想到，我就像中毒了一样，剧情在脑中不断打转，而主题曲女儿国，我已经单曲循环了三天了。对于这些充满曲折、挣扎与考验的爱情，老搓男我总是防不胜防，抵抗能力非常低，就像当初看大鱼海棠一个样子。主题曲女儿国歌词个人感觉很赞，忍不住手打了一遍。<br><a id="more"></a></p><blockquote><p>世上安得两全法，不负如来不负卿<br>反省凡心损梵心，从来如此莫聪明<br>既生苦难我西行，何生红颜你倾城<br>如何抹去你身影，如同忘却我姓名<br>说什么王权富贵，怕什么戒律清规<br>心恋我百转千回，快带我远走高飞<br>念什么善恶慈悲，等什么望穿秋水<br>人来世枯朽成灰，换今生与你相随<br>                    ————《女儿国》</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;大年初一上映了女儿国，不过没有去电影院看电影的爱好，到了三月中旬，我才在网上下载下来看。万万没想到，我就像中毒了一样，剧情在脑中不断打转，而主题曲女儿国，我已经单曲循环了三天了。对于这些充满曲折、挣扎与考验的爱情，老搓男我总是防不胜防，抵抗能力非常低，就像当初看大鱼海棠一个样子。主题曲女儿国歌词个人感觉很赞，忍不住手打了一遍。&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="歌词" scheme="http://yoursite.com/tags/%E6%AD%8C%E8%AF%8D/"/>
     
   </entry>
   
